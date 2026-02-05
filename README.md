@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishakha Pande </h1>
-<h3 align="center">AWS with DevOps Engineer | Technical Instructor🇮🇳</h3>
+<h3 align="center">AWS with DevOps Engineer | Java | Technical Instructor🇮🇳</h3>
 <p align="center">
   📫 How to reach me 
   <a href="mailto:pandevishakha100@gmail.com"><b>pandevishakha100@gmail.com</b></a>
