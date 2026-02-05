@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vishakha Pande </h1>
 <h3 align="center">AWS with DevOps Engineer | Technical Instructor🇮🇳</h3>
-📫 Reach me at: [pandevishakha100@gmail.com](mailto:pandevishakha100@gmail.com)
+<p align="center">
+  📫 How to reach me 
+  <a href="mailto:pandevishakha100@gmail.com"><b>pandevishakha100@gmail.com</b></a>
+</p>
 
-💼 LinkedIn: [linkedin.com/in/vishakha-pande-362aa123a/](https://www.linkedin.com/in/vishakha-pande-362aa123a/)
+<h3>Connect with me:</h3>
 
-<a href="TARGET_LINK">
-  <img src="ICON_IMAGE_URL" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/vishakha-pande-362aa123a/" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+    width="40"
+    height="40"
+  />
 </a>
 
 <h3>Languages & Tools:</h3>
