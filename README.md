@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vishakha Pande </h1>
-<hr>
 <h3 align="center">AWS with DevOps Engineer | Technical Instructor🇮🇳</h3>
 📫 Reach me at: [pandevishakha100@gmail.com](mailto:pandevishakha100@gmail.com)
 
