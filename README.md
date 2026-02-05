@@ -18,6 +18,9 @@
 <h3>Languages & Tools:</h3>
 
 <p>
+  <a href="https://angular.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50"/>   
+  </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
   </a>
